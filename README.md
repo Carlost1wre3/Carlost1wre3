@@ -19,6 +19,14 @@ Sou ex-estudante do curso técnico em Informática pela **ETEC Bartolomeu Bueno 
 
 ---
 
+### 🎓 Projeto em Destaque (TCC)
+Atualmente, estou desenvolvendo meu Trabalho de Conclusão de Curso dentro de uma organização dedicada:
+* **[My Training Couch]**: A aplicação busca solucionar uma problemática real por meio de uma solução tecnológica moderna, organizada e segura, utilizando boas práticas de desenvolvimento e versionamento..
+* 🚀 **Contribuição:** Atuo como [Desenvolvedor Backend/Frontend], utilizando [Node.js].
+* 📍 **Organização:** Você pode conferir o progresso aqui: [Organização](https://github.com/MTCouch/mtcouch.git)]
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 ![Cards do GitHub](https://github-readme-stats.vercel.app/api?username=Carlost1wre3&show_icons=true&theme=dracula)
